@@ -1,6 +1,34 @@
 The Debian Package vlc-plugin-vlsub
 ----------------------------
 
-Comments regarding the Package
+VLsub is a plugin for VLC, the libre and open source media player and 
+multimedia engine.
+This plugin allows you to automatically download the subtitles for your video,
+searching on the website http://opensubtitles.org. The search is based on the
+hash of the video currently playing.
+The author of the plugin is Guillaume Le Maout, web developer.
+
+Files
+----
+
+usr/lib/vlc/lua/extensions/vlsub.lua is the only component of the plugin.
+
+Translations
+-----------
+
+Translations of the plugin are downloaded directly from the project github at
+https://github.com/exebetche/vlsub/locales/tree/master/locale. In case you wish
+to have your own translation, you can add it to your 
+~/.local/share/vlc/lua/extensions/locales folder.
+The current official available translations are English, Czech, Danish, French,
+Greek, Basque, Brazilian Portuguese, Slovak,Spanish, Swedish and Ukrainian
+
+Links
+----
+
+The VLC web site  . . . . . . . http://www.videolan.org/
+The VLsub plugin web site . . . http://addons.videolan.org/content/show.php/VLSub?content=148752
+The VLsub source Git  . . . . . https://github.com/exebetche/vlsub
+
 
  -- Simon Gareste <simon.gareste@gmail.com>  Fri, 13 Sep 2013 12:12:08 +0200

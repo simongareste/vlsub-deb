@@ -3,13 +3,14 @@ Section: video
 Priority: optional
 Maintainer: Simon Gareste <simon.gareste@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.2
+Standards-Version: 3.9.4
 Homepage: http://addons.videolan.org/content/show.php?action=content&content=148752
-Vcs-Git: https://github.com/exebetche/vlsub.git
-Vcs-Browser: https://github.com/exebetche/vlsub
+Vcs-Git: https://github.com/simongareste/vlsub-deb.git
+Vcs-Browser: https://github.com/simongareste/vlsub-deb
 
 Package: vlc-plugin-vlsub
 Architecture: all
 Depends: ${misc:Depends}, vlc (>= 1.1)
 Description: VLC extension to download subtitles from opensubtitles.org
- Search and download subtitles from opensubtitles.org using the hash of the video currently playing or its title.
+ Search and download subtitles from opensubtitles.org using the hash of the 
+ video currently playing or its title.

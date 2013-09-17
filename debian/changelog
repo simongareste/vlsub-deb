@@ -1,8 +1,5 @@
 vlc-plugin-vlsub (0.9.10) unstable; urgency=low
 
   * Initial Release.
-  * First version released as debian package
-  * Add possibility to set opensubtitles.org username/password in config menu to avoid download limit to unlogged users
-  * See http://addons.videolan.org/content/show.php?action=content&content=148752 for previous changelog.
 
  -- Simon Gareste <simon.gareste@gmail.com>  Fri, 13 Sep 2013 12:12:08 +0200
