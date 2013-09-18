@@ -1,4 +1,4 @@
-vlc-plugin-vlsub (0.9.10) unstable; urgency=low
+vlc-plugin-vlsub (0.9.10-1) unstable; urgency=low
 
   * Initial Release (closes: #723640)
 
