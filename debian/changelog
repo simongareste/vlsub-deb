@@ -1,5 +1,5 @@
 vlc-plugin-vlsub (0.9.10) unstable; urgency=low
 
-  * Initial Release.
+  * Initial Release (closes: #723640)
 
  -- Simon Gareste <simon.gareste@gmail.com>  Fri, 13 Sep 2013 12:12:08 +0200
