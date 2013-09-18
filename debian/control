@@ -12,5 +12,5 @@ Package: vlc-plugin-vlsub
 Architecture: all
 Depends: ${misc:Depends}, vlc (>= 1.1)
 Description: VLC extension to download subtitles from opensubtitles.org
- Search and download subtitles from opensubtitles.org using the hash of the 
+ Search and download subtitles from opensubtitles.org using the hash of the
  video currently playing or its title.
