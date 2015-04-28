@@ -1,3 +1,11 @@
+vlc-plugin-vlsub (0.9.13-1) unstable; urgency=medium
+
+  * New upstream release
+  * Add myself to the uploaders
+  * Standards-Version updated to 3.9.6
+
+ -- Sylvestre Ledru <sylvestre@debian.org>  Tue, 28 Apr 2015 10:11:06 +0200
+
 vlc-plugin-vlsub (0.9.12-1.1) unstable; urgency=medium
   
   * NMU upload
