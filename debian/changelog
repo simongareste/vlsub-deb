@@ -1,9 +1,10 @@
-vlc-plugin-vlsub (0.10.2-1) unstable; urgency=medium
+vlc-plugin-vlsub (0.9.13-1.1) unstable; urgency=medium
 
-  * New upstream release
-    - Fix the freeze (Closes: #767712)
+  * Non-maintainer upload.
+  * Move to move to /usr/share/vlc/lua/extensions (Closes: #857682)
+  * Upgrade Standards version, no changes needed
 
- -- Sylvestre Ledru <sylvestre@debian.org>  Thu, 13 Apr 2017 15:50:29 +0200
+ -- Martin Zobel-Helas <zobel@debian.org>  Fri, 17 Mar 2017 17:50:47 +0100
 
 vlc-plugin-vlsub (0.9.13-1) unstable; urgency=medium
 
@@ -14,7 +15,7 @@ vlc-plugin-vlsub (0.9.13-1) unstable; urgency=medium
  -- Sylvestre Ledru <sylvestre@debian.org>  Tue, 28 Apr 2015 10:11:06 +0200
 
 vlc-plugin-vlsub (0.9.12-1.1) unstable; urgency=medium
-
+  
   * NMU upload
   * New upstream release (Closes: #757948)
   * Force the minimal version of vlc to 2.2.0 (not working otherwise)

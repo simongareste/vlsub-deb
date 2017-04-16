@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Simon Gareste <simon.gareste@gmail.com>
 Uploaders: Sylvestre Ledru <sylvestre@debian.org>
 Build-Depends: debhelper (>= 9.0.0)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: http://addons.videolan.org/content/show.php?action=content&content=148752
 Vcs-Git: https://github.com/simongareste/vlsub-deb.git
 Vcs-Browser: https://github.com/simongareste/vlsub-deb
