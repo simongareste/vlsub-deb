@@ -1,3 +1,9 @@
+vlc-plugin-vlsub (0.10.2-2) unstable; urgency=medium
+
+  * Integrate the changes from 0.9.13-1.1
+
+ -- Sylvestre Ledru <sylvestre@debian.org>  Sun, 16 Apr 2017 11:16:04 +0200
+
 vlc-plugin-vlsub (0.10.2-1) unstable; urgency=medium
 
   * New upstream release
